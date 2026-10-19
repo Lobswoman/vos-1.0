@@ -1,0 +1,11 @@
+{
+  "executadoEm": "2026-10-19T05:28:26.412Z",
+  "node": "v24.19.0",
+  "plataforma": "linux",
+  "amostras": 30,
+  "operacao": "GET assentos, aplicação em processo separado, banco temporário, sem concorrência",
+  "medianaMs": 2.27,
+  "maximoMs": 47.29,
+  "rssMiB": 45.73,
+  "frontendMaisBancoBytes": 111164
+}

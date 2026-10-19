@@ -1,0 +1,46 @@
+{
+  "executadoEm": "2026-10-19T05:24:57.219Z",
+  "results": [
+    {
+      "mode": "desktop",
+      "status": "APROVADO",
+      "conclusaoMs": 122,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      }
+    },
+    {
+      "mode": "mobile",
+      "status": "APROVADO",
+      "conclusaoMs": 71,
+      "viewport": {
+        "width": 412,
+        "height": 839
+      }
+    },
+    {
+      "mode": "notebook",
+      "status": "APROVADO",
+      "scope": "Mapa e layout",
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      }
+    },
+    {
+      "mode": "tablet",
+      "status": "APROVADO",
+      "scope": "Mapa e layout",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "mode": "falhas controladas",
+      "status": "APROVADO",
+      "scope": "Viagem ausente, API indisponível e perda de resposta após gravação"
+    }
+  ]
+}
